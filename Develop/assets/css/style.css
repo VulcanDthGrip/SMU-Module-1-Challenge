@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
-    padding: 0;
+    padding: 0; 
     margin: 0;
 }
-
+/* Body and .header h1 .seo share same color  */
 body {
     background-color: #d9dcd6;
 }
@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Same as body */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* -lead -brand -cost share the same configs */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,7 +100,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* -lead -brand -cost share the same configs */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* -lead -brand -cost share the same configs */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* .search .online .social share the same configs */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* img .search .online .social share the same configs */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +172,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* h2 .search .online .social share the same configs */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
