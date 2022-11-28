@@ -22,4 +22,4 @@ The image below shows exmaples within the CSS where consolidation efforts were p
 This assignment was the collaborative efforts between Luis Ayala, Jonathan De La Cruz, and Jonathan Emmert. While we shared and worked collaboratively, each student worked on their own respective assignment.
 
 **URL**
-
+https://vulcandthgrip.github.io/SMU-Module-1-Challenge/
